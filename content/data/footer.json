@@ -51,7 +51,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/terms/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
