@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo.svg",
+        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -49,7 +49,8 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "Yog Chitralaya"
 }

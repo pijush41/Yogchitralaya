@@ -271,25 +271,26 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Surya Namaskar
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: By Yog Chitralaya Students
+    text: >
+      Join us in this inspiring video as the dedicated students of Yog
+      Chitralaya demonstrate the beautiful practice of Surya Namaskar, also
+      known as Sun Salutation. This ancient sequence of yoga poses is not only a
+      fantastic way to warm up the body but also a powerful practice for
+      enhancing physical strength, flexibility, and mental clarity.
     actions: []
     media:
-      title: Title of the video
+      title: Surya Namaskar
       url: 'https://vimeo.com/1001529200'
-      autoplay: false
-      loop: false
-      muted: false
+      autoplay: true
+      loop: true
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -532,9 +533,23 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Yog Chitralaya
+  metaDescription: >-
+    Yog Chitralaya is the best yoga studio for yoga classes and training in
+    Siliguri.
+  socialImage: /images/IMG-20230813-WA0025-1536x1152.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: Yog Chitralaya
+    - type: MetaTag
+      property: 'og:type'
+      content: Yoga Studio
+    - type: MetaTag
+      property: 'og:description'
+      content: >-
+        Yog Chitralaya is the best yoga studio for yoga classes and training in
+        Siliguri.
 type: PageLayout
 ---
