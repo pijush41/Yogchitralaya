@@ -289,7 +289,7 @@ sections:
       url: /images/placeholder-video.mp4
       autoplay: false
       loop: false
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
