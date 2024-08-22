@@ -92,6 +92,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+            altText: Contact Us
         colors: bg-neutral-fg-dark
         styles:
           self:
