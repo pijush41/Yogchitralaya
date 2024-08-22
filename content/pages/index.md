@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: Ashtanga Yoga
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ashtanga yoga is a direct offshoot of sage Patanjali’s Yoga Sutras.
+          Famous as the yoga form for weight loss, the ashtanga word is a
+          derivative of the word eight in Sanskrit.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
