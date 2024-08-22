@@ -449,7 +449,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Pijush Mandal
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
