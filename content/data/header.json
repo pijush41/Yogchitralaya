@@ -41,12 +41,13 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Location",
+            "url": "https://maps.app.goo.gl/Wgb8bE1qBQnodRT4A",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Google Maps"
         }
     ],
     "variant": "logo-left-primary-nav-right",
