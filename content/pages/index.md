@@ -337,7 +337,7 @@ sections:
           explicabo.
         image:
           url: /images/1.png
-          altText: Maria Walters
+          altText: BIBHUTI BHUSHAN SARKAR
           styles:
             self:
               borderRadius: full
