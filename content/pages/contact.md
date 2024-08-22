@@ -10,21 +10,18 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Contact Details
-    text: |+
+    text: |
       ## Physical Address​
 
       **Ward 36, Ghogomali, Siliguri, West Bengal 734006**
 
       ## Email Address
 
-      **pijush\@yogchitralaya.com**
+      [**pijush@yogchitralaya.com**](mailto:pijush@yogchitralaya.com)
 
       ## Phone Numbers
 
       **+91-790-888-0554**
-
-      ``
-
     actions:
       - label: See open positions
         url: /
