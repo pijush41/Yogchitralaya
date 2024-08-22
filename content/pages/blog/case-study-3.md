@@ -3,10 +3,13 @@ title: Some of My Yoga Poses Perfect for Beginners
 slug: case-study-3
 date: '2024-04-18'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Yoga is a beautiful practice that combines physical postures, breath control,
+  and meditation to promote overall well-being. For beginners, the journey into
+  yoga can be both exciting and intimidating. With countless poses and styles to
+  choose from, it’s essential to start with foundational poses that build
+  strength, flexibility, and confidence. In this blog post, I’ll share some of
+  my favorite yoga poses that are perfect for beginners, along with tips on how
+  to practice them safely and effectively.
 featuredImage:
   url: /images/IMG-20230813-WA0025-1536x1152.jpg
   altText: Case study 3
