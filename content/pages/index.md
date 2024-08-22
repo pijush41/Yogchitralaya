@@ -142,7 +142,7 @@ sections:
       - label: Find Us On Map
         altText: Google Map
         url: 'https://goo.gl/maps/dbYfbEuGy18znhwV7'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
