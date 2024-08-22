@@ -411,7 +411,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar4.svg
           altText: Riya Dutta
           styles:
             self:
