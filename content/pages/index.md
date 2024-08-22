@@ -192,7 +192,8 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts: []
+  - posts:
+      - content/pages/blog/health-benefits-of-yoga.md
     showThumbnail: true
     showDate: true
     showAuthor: true
