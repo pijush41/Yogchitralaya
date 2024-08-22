@@ -67,6 +67,6 @@
         }
     ],
     "copyrightText": "Created by **S.M**\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
