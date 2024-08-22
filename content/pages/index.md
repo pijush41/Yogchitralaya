@@ -546,6 +546,6 @@ seo:
       property: 'og:type'
       content: Yoga Studio
     - type: MetaTag
-      property: 'og:image'
+      property: 'og:description'
 type: PageLayout
 ---
