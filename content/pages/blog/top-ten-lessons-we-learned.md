@@ -8,7 +8,7 @@ excerpt: >-
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
   url: /images/IMG-20230813-WA0025-1536x1152.jpg
-  altText: Thumbnail
+  altText: 'Neurotherapy & Yog Chikitsa: How Yoga Can Heal Your Body'
   type: ImageBlock
   styles:
     self:
