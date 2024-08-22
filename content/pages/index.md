@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Find Us on Map
+      - label: Find Us On Map
         altText: Google Map
         url: 'https://goo.gl/maps/dbYfbEuGy18znhwV7'
         showIcon: false
