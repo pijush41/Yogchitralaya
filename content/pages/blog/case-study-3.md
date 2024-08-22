@@ -87,19 +87,139 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+Yoga is a beautiful practice that combines physical postures, breath control, and meditation to promote overall well-being. For beginners, the journey into yoga can be both exciting and intimidating. With countless poses and styles to choose from, it’s essential to start with foundational poses that build strength, flexibility, and confidence. In this blog post, I’ll share some of my favorite yoga poses that are perfect for beginners, along with tips on how to practice them safely and effectively.
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
+## 1. Mountain Pose (Tadasana)
 
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Benefits:
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
+Mountain Pose is the starting point for many standing poses. It helps improve posture, balance, and body awareness.
 
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Laura Gómez - Product Marketing Manager_
+### How to Practice:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Stand tall with your feet together or hip-width apart.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Distribute your weight evenly across both feet.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   Engage your thighs, lift your chest, and relax your shoulders.
+
+*   Reach your arms overhead, palms facing each other, and take deep breaths.
+
+*   Hold for 5-10 breaths, focusing on grounding yourself.
+
+## 2. Downward-Facing Dog (Adho Mukha Svanasana)
+
+### Benefits:
+
+This pose stretches the entire body, strengthens the arms and legs, and helps relieve tension in the back.
+
+### How to Practice:
+
+*   Start on your hands and knees, with wrists aligned under shoulders and knees under hips.
+
+*   Tuck your toes and lift your hips up and back, straightening your legs.
+
+*   Keep your spine long and your head between your arms, ears aligned with your upper arms.
+
+*   Hold for 5-10 breaths, pedaling your feet to stretch your calves.
+
+## 3. Child’s Pose (Balasana)
+
+### Benefits:
+
+Child’s Pose is a restorative pose that calms the mind and relieves tension in the back, hips, and shoulders.
+
+### How to Practice:
+
+*   Kneel on the mat, bringing your big toes together and sitting back on your heels.
+
+*   Fold forward, resting your forehead on the mat and extending your arms in front or alongside your body.
+
+*   Breathe deeply, allowing your body to relax into the pose.
+
+*   Hold for 5-10 breaths, feeling the gentle stretch in your back.
+
+## 4. Cat-Cow Stretch (Marjaryasana-Bitilasana)
+
+### Benefits:
+
+This dynamic movement warms up the spine, improves flexibility, and helps relieve back tension.
+
+### How to Practice:
+
+*   Start on your hands and knees in a tabletop position.
+
+*   Inhale, arch your back, and lift your head and tailbone (Cow Pose).
+
+*   Exhale, round your spine, tuck your chin, and draw your belly button toward your spine (Cat Pose).
+
+*   Continue to flow between these two positions for 5-10 breaths, synchronizing your movements with your breath.
+
+## 5. Warrior I (Virabhadrasana I)
+
+### Benefits:
+
+Warrior I builds strength in the legs, opens the hips and chest, and improves focus and determination.
+
+### How to Practice:
+
+*   Stand in Mountain Pose, then step your left foot back about 3-4 feet.
+
+*   Bend your right knee, keeping it aligned over your ankle.
+
+*   Turn your left foot slightly out and press it into the mat.
+
+*   Raise your arms overhead, palms facing each other, and gaze forward.
+
+*   Hold for 5-10 breaths, then switch sides.
+
+## 6. Tree Pose (Vrksasana)
+
+### Benefits:
+
+Tree Pose enhances balance, stability, and concentration while strengthening the legs and core.
+
+### How to Practice:
+
+*   Stand in Mountain Pose and shift your weight onto your left foot.
+
+*   Bend your right knee and place your right foot on your left inner thigh, calf, or ankle (avoid the knee).
+
+*   Bring your hands to your heart center or raise them overhead.
+
+*   Focus on a point in front of you to help maintain balance.
+
+*   Hold for 5-10 breaths, then switch sides.
+
+## 7. Seated Forward Bend (Paschimottanasana)
+
+### Benefits:
+
+This pose stretches the spine, hamstrings, and calves while calming the mind and relieving stress.
+
+### How to Practice:
+
+*   Sit on the mat with your legs extended in front of you.
+
+*   Inhale, lengthen your spine, and reach your arms overhead.
+
+*   Exhale, hinge at your hips, and reach for your feet or shins, keeping your back straight.
+
+*   Hold for 5-10 breaths, allowing your body to relax deeper with each exhale.
+
+## Tips for Beginners
+
+1.  **Listen to Your Body**: Yoga is about connecting with yourself. If a pose feels uncomfortable or painful, back off or modify it.
+
+2.  **Use Props**: Don’t hesitate to use blocks, straps, or cushions to support your practice. They can help you achieve proper alignment and make poses more accessible.
+
+3.  **Focus on Breath**: Your breath is your guide in yoga. Inhale deeply and exhale fully, allowing your breath to flow with your movements.
+
+4.  **Practice Regularly**: Consistency is key. Aim to practice a few times a week, even if it’s just for a short session.
+
+5.  **Stay Patient**: Progress in yoga takes time. Celebrate small victories and enjoy the journey.
+
+## Conclusion
+
+Starting your yoga journey can be a transformative experience. By incorporating these beginner-friendly poses into your practice, you’ll build a strong foundation for your yoga journey. Remember to be patient with yourself, listen to your body, and most importantly, enjoy the process. Whether you’re looking to improve flexibility, reduce stress, or simply find a moment of peace in your day, yoga offers something for everyone. Namaste!
+
