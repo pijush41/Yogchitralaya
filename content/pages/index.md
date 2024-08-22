@@ -14,7 +14,7 @@ sections:
       step methodology of all forms of yoga.
     actions:
       - label: Get Started
-        altText: ''
+        altText: Pricing
         url: /pricing/
         showIcon: false
         icon: arrowRight
