@@ -441,7 +441,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: List of Trainers
       color: text-primary
       styles:
         self:
