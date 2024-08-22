@@ -193,6 +193,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - posts:
+      - content/pages/blog/embracing-wellness-my-journey.md
       - content/pages/blog/health-benefits-of-yoga.md
     showThumbnail: true
     showDate: true
