@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Terms & Condition
+title: Privacy Policy and Disclaimer
 sections:
   - type: GenericSection
     title:
