@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Blogs
         altText: Blogs
-        url: /
+        url: /blogs
         showIcon: true
         icon: arrowRight
         iconPosition: right
