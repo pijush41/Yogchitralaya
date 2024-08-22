@@ -2,11 +2,7 @@
 title: 'Embracing Wellness: The Journey of Pijush Mandal'
 slug: case-study-2
 date: '2024-03-16'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: 'Embracing Wellness: The Journey of Pijush Mandal'
 featuredImage:
   url: /images/Screenshot from 2024-08-22 13-50-07.png
   altText: Case study 2
