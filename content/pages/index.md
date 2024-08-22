@@ -441,22 +441,21 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: List of Trainers
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Pijush Mandal
+        tagline: Founder of Yog Chitralaya
+        subtitle: ''
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          url: /images/Screenshot from 2024-08-22 13-51-25.png
+          altText: Pijush Mandal
           styles:
             self:
               borderRadius: x-large
