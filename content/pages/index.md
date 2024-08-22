@@ -278,11 +278,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: By Yog Chitralaya Students
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Join us in this inspiring video as the dedicated students of Yog
+      Chitralaya demonstrate the beautiful practice of Surya Namaskar, also
+      known as Sun Salutation. This ancient sequence of yoga poses is not only a
+      fantastic way to warm up the body but also a powerful practice for
+      enhancing physical strength, flexibility, and mental clarity.
     actions: []
     media:
       title: Surya Namaskar
