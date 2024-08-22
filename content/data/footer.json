@@ -51,19 +51,21 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/terms/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Terms"
         },
         {
             "label": "Privacy",
-            "url": "/privacy-policy/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Privacy Policy"
         }
     ],
     "copyrightText": "Created by **S.M**\n",
