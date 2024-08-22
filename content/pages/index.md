@@ -288,7 +288,7 @@ sections:
       title: Title of the video
       url: 'https://vimeo.com/1001529200'
       autoplay: true
-      loop: false
+      loop: true
       muted: false
       controls: false
       aspectRatio: '16:9'
