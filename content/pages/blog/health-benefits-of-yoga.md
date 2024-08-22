@@ -1,6 +1,6 @@
 ---
 title: 5 Health Benefits of Yoga
-slug: case-study-1
+slug: health-benefits-of-yoga
 date: '2024-02-05'
 excerpt: >-
   It’s no secret that yoga is healthy for your body and mind, offering
