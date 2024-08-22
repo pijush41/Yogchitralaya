@@ -1,6 +1,6 @@
 ---
 title: Some of My Yoga Poses Perfect for Beginners
-slug: case-study-3
+slug: beginner-yoga-poses-by-yogchitralaya
 date: '2024-04-18'
 excerpt: >-
   Yoga is a beautiful practice that combines physical postures, breath control,
