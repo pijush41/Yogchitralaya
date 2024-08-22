@@ -20,7 +20,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: terms
+slug: /terms
 isDraft: false
 seo:
   type: Seo
