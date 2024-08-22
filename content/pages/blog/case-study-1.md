@@ -1,5 +1,5 @@
 ---
-title: 5 Heart-Health Benefits of Yoga
+title: 5 Health Benefits of Yoga
 slug: case-study-1
 date: '2024-02-05'
 excerpt: >-
