@@ -48,7 +48,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature two
-          - Feature three
           - Feature four
         image:
           url: /images/abstract-feature2.svg
