@@ -163,7 +163,7 @@ sections:
         textAlign: center
   - subtitle: Award Winning. Trusted Trainers
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/icon-4.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
