@@ -19,7 +19,6 @@ sections:
           flexibility and convenience to our students.
         features:
           - Feature two
-          - Feature four
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
