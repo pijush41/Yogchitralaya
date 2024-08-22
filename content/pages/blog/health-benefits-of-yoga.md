@@ -2,11 +2,7 @@
 title: 5 Health Benefits of Yoga
 slug: health-benefits-of-yoga
 date: '2024-02-05'
-excerpt: >-
-  It’s no secret that yoga is healthy for your body and mind, offering
-  advantages including enhanced strength, more vitality, and improved
-  flexibility. Additionally, there is mounting proof that it may be advantageous
-  for your heart.
+excerpt: It’s no secret that yoga is healthy for your body and mind.
 featuredImage:
   url: /images/IMG-20230813-WA0020-1536x1152.jpg
   altText: Case study 1
