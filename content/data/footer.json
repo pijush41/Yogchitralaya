@@ -4,30 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "About",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "Yog Chitralaya\n",
     "secondaryLinks": {
         "title": "Company",
         "links": [
@@ -53,26 +30,20 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/32yogchitralaya/",
+            "icon": "facebook",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Youtube link",
+            "url": "https://www.youtube.com/channel/UCWyKFCsHlDu2DHR_PCcOCrQ",
+            "icon": "youtube",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "pijush@yogchitralaya.com",
             "icon": "mail",
             "type": "Social"
         }
