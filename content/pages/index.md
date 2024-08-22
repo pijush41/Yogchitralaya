@@ -286,7 +286,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.facebook.com/32yogchitralaya/videos/293597410350714/'
       autoplay: false
       loop: false
       muted: false
