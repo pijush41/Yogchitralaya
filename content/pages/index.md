@@ -92,10 +92,9 @@ sections:
               borderRadius: x-large
       - title: Aerial Yoga
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          It is suitable not only for advanced people but also for beginners. It
+          helps to build toned and lean muscles.
         image:
           url: /images/icon-5.svg
           altText: Featured icon two
