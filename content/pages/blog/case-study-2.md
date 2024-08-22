@@ -1,5 +1,5 @@
 ---
-title: Sarbabharatiya Sangeet-O-Sanskriti Parishad
+title: 'Embracing Wellness: The Journey of Pijush Mandal'
 slug: case-study-2
 date: '2024-03-16'
 excerpt: >-
