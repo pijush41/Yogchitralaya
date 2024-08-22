@@ -3,10 +3,10 @@ title: 5 Heart-Health Benefits of Yoga
 slug: case-study-1
 date: '2024-02-05'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  It’s no secret that yoga is healthy for your body and mind, offering
+  advantages including enhanced strength, more vitality, and improved
+  flexibility. Additionally, there is mounting proof that it may be advantageous
+  for your heart.
 featuredImage:
   url: /images/IMG-20230813-WA0020-1536x1152.jpg
   altText: Case study 1
