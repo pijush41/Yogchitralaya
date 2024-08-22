@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Iyengar Yoga
-        subtitle: Faster
+        subtitle: Strength
         text: >+
           Iyengar yoga is different from other types of yoga. It focuses
           primarily on posture, body alignment and opening of the body.
