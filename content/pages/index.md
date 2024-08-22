@@ -116,10 +116,11 @@ sections:
         type: FeaturedItem
       - title: Iyengar Yoga
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Iyengar yoga is different from other types of yoga. It focuses
+          primarily on posture, body alignment and opening of the body.
+
+
         image:
           url: /images/icon-4.svg
           altText: Featured icon three
