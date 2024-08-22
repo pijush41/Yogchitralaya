@@ -1,6 +1,6 @@
 ---
 title: Contact
-slug: contact
+slug: /contact
 sections:
   - title:
       text: "Contact Us For\_Any Inquiries"
