@@ -18,7 +18,6 @@ sections:
           Our admission pricing for yoga classes is designed to provide
           flexibility and convenience to our students.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
