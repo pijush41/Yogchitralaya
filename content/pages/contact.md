@@ -24,7 +24,7 @@ sections:
       **+91-790-888-0554**
     actions:
       - label: Check On Map
-        url: ''
+        url: 'https://maps.app.goo.gl/Wgb8bE1qBQnodRT4A'
         icon: arrowRight
         iconPosition: right
         style: primary
