@@ -72,9 +72,10 @@ sections:
       - title: House Visit
         price: ₹1000
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          For those who prioritize convenience or have specific needs that
+          prevent them from attending regular classes at our studio location, we
+          offer personalized home visit sessions.
         features: []
         image:
           url: /images/abstract-feature3.svg
