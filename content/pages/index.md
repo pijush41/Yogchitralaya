@@ -355,7 +355,7 @@ sections:
           A wonderful class. The trainers are very helpful and friendly.A All
           round performing yoga centre really like it . Everyone who wants to do
           yoga this centre must be their first choice
-        tagline: Testimonial 2
+        tagline: Rupam Sahu
         subtitle: ''
         text: ''
         image:
