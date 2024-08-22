@@ -287,7 +287,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://vimeo.com/1001529200'
-      autoplay: false
+      autoplay: true
       loop: false
       muted: false
       controls: false
