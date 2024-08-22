@@ -8,9 +8,9 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/embracing-wellness-my-journey.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
