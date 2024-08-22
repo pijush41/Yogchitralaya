@@ -43,9 +43,9 @@ sections:
       - title: Monthly
         price: ₹1000
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our monthly pricing options are tailored to cater to different
+          preferences and commitment levels.
         features: []
         image:
           url: /images/abstract-feature2.svg
