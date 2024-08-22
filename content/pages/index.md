@@ -383,7 +383,7 @@ sections:
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
