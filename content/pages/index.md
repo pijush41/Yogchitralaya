@@ -359,7 +359,7 @@ sections:
         text: ''
         image:
           url: /images/person-placeholder-light.png
-          altText: John Doe
+          altText: Rupam Sahu
           styles:
             self:
               borderRadius: full
