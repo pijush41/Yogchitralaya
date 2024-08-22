@@ -198,7 +198,7 @@ sections:
       - content/pages/blog/beginner-yoga-poses-by-yogchitralaya.md
     showThumbnail: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
