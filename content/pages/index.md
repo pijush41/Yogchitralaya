@@ -141,7 +141,7 @@ sections:
     actions:
       - label: 'Find Us '
         altText: ''
-        url: /
+        url: 'https://goo.gl/maps/dbYfbEuGy18znhwV7'
         showIcon: false
         icon: arrowRight
         iconPosition: right
