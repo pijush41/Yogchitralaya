@@ -408,7 +408,7 @@ sections:
           Best yoga center in the city also the yoga instructor is the best in
           it's field.
         tagline: Riya Dutta
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
