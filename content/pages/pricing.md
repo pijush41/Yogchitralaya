@@ -77,7 +77,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature three
-          - Feature four
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
