@@ -352,8 +352,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          A wonderful class. The trainers are very helpful and friendly.A All
+          round performing yoga centre really like it . Everyone who wants to do
+          yoga this centre must be their first choice
         tagline: Testimonial 2
         subtitle: ''
         text: ''
