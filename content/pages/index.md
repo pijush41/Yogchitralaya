@@ -545,5 +545,6 @@ seo:
     - type: MetaTag
       property: 'og:type'
       content: Yoga Studio
+    - type: MetaTag
 type: PageLayout
 ---
