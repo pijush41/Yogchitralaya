@@ -13,7 +13,7 @@ sections:
       Siliguri. On this academy yoga teacher’s, teach you techniques step by
       step methodology of all forms of yoga.
     actions:
-      - label: Get started
+      - label: Prici
         altText: ''
         url: /
         showIcon: false
