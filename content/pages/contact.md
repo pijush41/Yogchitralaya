@@ -29,6 +29,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        altText: Google Map
     colors: bg-neutral-fg-dark
     styles:
       self:
