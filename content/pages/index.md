@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Ashtanga Yoga
-        subtitle: Numbers Done
+        subtitle: Calm
         text: >
           Ashtanga yoga is a direct offshoot of sage Patanjali’s Yoga Sutras.
           Famous as the yoga form for weight loss, the ashtanga word is a
