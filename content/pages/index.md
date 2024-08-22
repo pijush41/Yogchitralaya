@@ -456,7 +456,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           url: /images/Screenshot from 2024-08-22 13-51-25.png
-          altText: Placeholder Image
+          altText: Pijush Mandal
           styles:
             self:
               borderRadius: x-large
