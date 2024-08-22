@@ -412,7 +412,7 @@ sections:
         text: ''
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Riya Dutta
           styles:
             self:
               borderRadius: full
