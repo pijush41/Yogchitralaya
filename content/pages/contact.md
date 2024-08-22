@@ -3,7 +3,7 @@ title: Contact
 slug: contact
 sections:
   - title:
-      text: "for\_any inquiries"
+      text: "contactfor\_any inquiries"
       color: text-dark
       styles:
         self:
