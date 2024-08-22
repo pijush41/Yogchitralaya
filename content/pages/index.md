@@ -547,5 +547,8 @@ seo:
       content: Yoga Studio
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        Yog Chitralaya is the best yoga studio for yoga classes and training in
+        Siliguri.
 type: PageLayout
 ---
