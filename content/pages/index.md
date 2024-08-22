@@ -169,7 +169,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/16339744_v914-ning-39.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/icon-1.svg
