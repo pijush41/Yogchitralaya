@@ -286,7 +286,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://www.facebook.com/32yogchitralaya/videos/293597410350714/'
+      url: 'https://vimeo.com/1001529200'
       autoplay: false
       loop: false
       muted: false
