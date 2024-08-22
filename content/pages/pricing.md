@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Admission
         price: ₹800
-        details: ''
+        details: one time
         description: >
           Our admission pricing for yoga classes is designed to provide
           flexibility and convenience to our students.
