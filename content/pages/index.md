@@ -405,8 +405,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Best yoga center in the city also the yoga instructor is the best in
+          it's field.
         tagline: Riya Dutta
         subtitle: 'Maria Walters, Company'
         text: >-
