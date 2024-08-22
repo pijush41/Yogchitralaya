@@ -329,10 +329,7 @@ sections:
       - title: "“Peformance is very good. \U0001F44C\U0001F9D8\U0001F44DBest academy\U0001F9D8\U0001F642 ….”"
         tagline: BIBHUTI BHUSHAN SARKAR
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/avatar1.svg
           altText: BIBHUTI BHUSHAN SARKAR
