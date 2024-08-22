@@ -387,7 +387,7 @@ sections:
         text: ''
         image:
           url: /images/avatar2.svg
-          altText: Maria Walters
+          altText: Rumpa Barai
           styles:
             self:
               borderRadius: full
