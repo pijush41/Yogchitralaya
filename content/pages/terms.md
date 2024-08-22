@@ -2,7 +2,7 @@
 type: PageLayout
 title: Terms & Condition
 sections: []
-slug: /terms/
+slug: terms
 isDraft: false
 seo:
   type: Seo
