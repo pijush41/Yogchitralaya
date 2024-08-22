@@ -13,7 +13,7 @@ sections:
       Siliguri. On this academy yoga teacher’s, teach you techniques step by
       step methodology of all forms of yoga.
     actions:
-      - label: Get Started
+      - label: Pricing
         altText: Pricing
         url: /pricing/
         showIcon: false
@@ -161,37 +161,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award Winning. Trusted Trainers
-    images:
-      - url: /images/icon-4.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/icon-1.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/icon-1.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/embracing-wellness-my-journey.md
       - content/pages/blog/health-benefits-of-yoga.md
@@ -472,11 +441,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Coming
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        subtitle: ''
+        text: ''
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -495,12 +463,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Coming
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        subtitle: ''
+        text: ''
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
