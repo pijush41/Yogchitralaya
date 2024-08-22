@@ -222,7 +222,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: The Best Yoga Studio
       color: text-dark
       styles:
         self:
