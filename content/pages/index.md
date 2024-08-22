@@ -161,7 +161,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning. Trusted Trainers
+  - subtitle: Award Winning. Trusted Trainers
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
