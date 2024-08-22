@@ -17,8 +17,7 @@ sections:
         description: >
           Our admission pricing for yoga classes is designed to provide
           flexibility and convenience to our students.
-        features:
-          - Feature two
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
