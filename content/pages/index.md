@@ -194,7 +194,6 @@ sections:
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-1.md
     showThumbnail: true
     showDate: true
     showAuthor: true
