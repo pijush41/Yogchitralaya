@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Blogs
-        altText: ''
+        altText: Blogs
         url: /
         showIcon: true
         icon: arrowRight
