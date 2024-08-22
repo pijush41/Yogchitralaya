@@ -1,7 +1,7 @@
 ---
 title: 'Neurotherapy & Yog Chikitsa: How Yoga Can Heal Your Body'
 slug: top-ten-lessons-we-learned
-date: '0020-06-20'
+date: '2024-06-20'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
