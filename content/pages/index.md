@@ -195,6 +195,7 @@ sections:
   - posts:
       - content/pages/blog/embracing-wellness-my-journey.md
       - content/pages/blog/health-benefits-of-yoga.md
+      - content/pages/blog/beginner-yoga-poses-by-yogchitralaya.md
     showThumbnail: true
     showDate: true
     showAuthor: true
