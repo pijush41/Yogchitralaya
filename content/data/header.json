@@ -50,7 +50,7 @@
         }
     ],
     "variant": "logo-left-primary-nav-right",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "Yog Chitralaya"
 }
