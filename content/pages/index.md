@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Aerial Yoga
-        subtitle: The Job Stuff
+        subtitle: Mindfull
         text: >
           It is suitable not only for advanced people but also for beginners. It
           helps to build toned and lean muscles.
