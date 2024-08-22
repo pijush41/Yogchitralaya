@@ -543,5 +543,6 @@ seo:
       property: 'og:title'
       content: Yog Chitralaya
     - type: MetaTag
+      property: 'og:type'
 type: PageLayout
 ---
