@@ -53,7 +53,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: /contact/
             icon: arrowRight
             iconPosition: right
             style: secondary
