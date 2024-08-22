@@ -326,7 +326,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: “BIBHUTI BHUSHAN SARKAR.”
+      - title: "“Peformance is very good. \U0001F44C\U0001F9D8\U0001F44DBest academy\U0001F9D8\U0001F642 ….”"
         tagline: Testimonial 1
         subtitle: BIBHUTI BHUSHAN SARKAR
         text: >-
