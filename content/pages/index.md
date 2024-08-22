@@ -166,7 +166,7 @@ sections:
       - url: /images/icon-4.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/reshot-icon-yoga-towel-UBN5QR49FZ.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/16339744_v914-ning-39.svg
