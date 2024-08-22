@@ -450,7 +450,7 @@ sections:
     subtitle: ''
     items:
       - title: Pijush Mandal
-        tagline: This is the tagline
+        tagline: Founder of Yog Chitralaya
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
