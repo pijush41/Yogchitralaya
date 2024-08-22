@@ -1,6 +1,6 @@
 ---
 title: 'Embracing Wellness: The Journey of Pijush Mandal'
-slug: case-study-2
+slug: embracing-wellness-my-journey
 date: '2024-03-16'
 excerpt: 'Embracing Wellness: The Journey of Pijush Mandal'
 featuredImage:
