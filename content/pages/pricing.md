@@ -52,7 +52,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Contact Us
             url: /contact/
             icon: arrowRight
             iconPosition: right
