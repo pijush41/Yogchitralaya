@@ -193,12 +193,12 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/embracing-wellness-my-journey.md
+      - content/pages/blog/health-benefits-of-yoga.md
+      - content/pages/blog/beginner-yoga-poses-by-yogchitralaya.md
     showThumbnail: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -346,42 +346,6 @@ sections:
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark

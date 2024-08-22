@@ -6,7 +6,7 @@
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "About",
         "links": [
             {
                 "label": "Features",
@@ -20,14 +20,6 @@
             {
                 "label": "Pricing",
                 "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +95,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Created by **S.M**\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
