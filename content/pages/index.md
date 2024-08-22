@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Yog Chitralaya is the best yoga studio for yoga classes and training in
+      Siliguri. On this academy yoga teacher’s, teach you techniques step by
+      step methodology of all forms of yoga.
     actions:
       - label: Get started
         altText: ''
