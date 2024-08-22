@@ -4,12 +4,7 @@ slug: beginner-yoga-poses-by-yogchitralaya
 date: '2024-04-18'
 excerpt: >-
   Yoga is a beautiful practice that combines physical postures, breath control,
-  and meditation to promote overall well-being. For beginners, the journey into
-  yoga can be both exciting and intimidating. With countless poses and styles to
-  choose from, it’s essential to start with foundational poses that build
-  strength, flexibility, and confidence. In this blog post, I’ll share some of
-  my favorite yoga poses that are perfect for beginners, along with tips on how
-  to practice them safely and effectively.
+  and meditation to promote overall well-being.
 featuredImage:
   url: /images/IMG-20230813-WA0025-1536x1152.jpg
   altText: Case study 3
