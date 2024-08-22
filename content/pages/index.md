@@ -533,7 +533,9 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Yog Chitralaya
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Yog Chitralaya is the best yoga studio for yoga classes and training in
+    Siliguri.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
