@@ -386,7 +386,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar2.svg
           altText: Maria Walters
           styles:
             self:
