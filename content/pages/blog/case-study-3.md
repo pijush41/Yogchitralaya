@@ -1,5 +1,5 @@
 ---
-title: Child Class
+title: Some of My Yoga Poses Perfect for Beginners
 slug: case-study-3
 date: '2024-04-18'
 excerpt: >-
