@@ -379,9 +379,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+      - title: "It has been a wonderful experience for me. ..Best yoga class in Siliguri..\U0001F970\U0001F970\U0001F970 …"
         tagline: Rumpa Barai
         subtitle: ''
         text: ''
