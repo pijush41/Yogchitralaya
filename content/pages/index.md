@@ -161,37 +161,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award Winning. Trusted Trainers
-    images:
-      - url: /images/icon-4.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/reshot-icon-yoga-towel-UBN5QR49FZ.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/16339744_v914-ning-39.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/icon-1.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/icon-1.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/embracing-wellness-my-journey.md
       - content/pages/blog/health-benefits-of-yoga.md
