@@ -62,7 +62,7 @@ sections:
     subtitle: Best Yoga Studio in your City
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Ashtanga Yoga
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
