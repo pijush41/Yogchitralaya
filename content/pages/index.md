@@ -140,7 +140,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Find Us on Map
-        altText: ''
+        altText: Google Map
         url: 'https://goo.gl/maps/dbYfbEuGy18znhwV7'
         showIcon: false
         icon: arrowRight
