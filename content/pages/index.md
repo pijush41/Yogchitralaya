@@ -336,7 +336,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/1.png
+          url: /images/avatar1.svg
           altText: BIBHUTI BHUSHAN SARKAR
           styles:
             self:
