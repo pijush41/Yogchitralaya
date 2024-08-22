@@ -285,7 +285,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: Surya Namaskar
       url: 'https://vimeo.com/1001529200'
       autoplay: true
       loop: true
