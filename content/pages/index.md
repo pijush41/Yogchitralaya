@@ -452,8 +452,7 @@ sections:
       - title: Pijush Mandal
         tagline: Founder of Yog Chitralaya
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/Screenshot from 2024-08-22 13-51-25.png
           altText: Pijush Mandal
