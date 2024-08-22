@@ -23,7 +23,7 @@ sections:
 
       **+91-790-888-0554**
     actions:
-      - label: Check On Maps
+      - label: Check On Map
         url: /
         icon: arrowRight
         iconPosition: right
