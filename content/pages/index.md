@@ -544,6 +544,6 @@ seo:
       content: Yog Chitralaya
     - type: MetaTag
       property: 'og:type'
-      content: Busine
+      content: Yoga Studio
 type: PageLayout
 ---
