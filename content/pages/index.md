@@ -7,7 +7,7 @@ sections:
       text: Yog Chitralaya
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Yog Chitralaya is the best yoga studio for yoga classes and training in
       Siliguri. On this academy yoga teacher’s, teach you techniques step by
