@@ -205,7 +205,7 @@ sections:
       Yoga, Yin Yang Yoga, and Prenatal Yoga. We also offer teacher training
       programs for those who wish to pursue a career in yoga.
     media:
-      title: Title of the video
+      title: Mini meditation
       url: 'https://youtu.be/cEqZthCaMpo?si=bjREMg11lCedlRjR'
       controls: false
       aspectRatio: '16:9'
