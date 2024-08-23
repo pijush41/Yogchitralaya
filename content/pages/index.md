@@ -206,7 +206,7 @@ sections:
       programs for those who wish to pursue a career in yoga.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/cEqZthCaMpo?si=bjREMg11lCedlRjR'
       controls: false
       aspectRatio: '16:9'
       styles:
