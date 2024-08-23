@@ -43,7 +43,7 @@
         },
         {
             "altText": "Email link",
-            "url": "pijush@yogchitralaya.com",
+            "url": "mailto:pijush@yogchitralaya.com",
             "icon": "mail",
             "type": "Social"
         }
