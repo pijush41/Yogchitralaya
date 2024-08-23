@@ -161,35 +161,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/embracing-wellness-my-journey.md
-      - content/pages/blog/health-benefits-of-yoga.md
-      - content/pages/blog/beginner-yoga-poses-by-yogchitralaya.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: false
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: The Best Yoga Studio
       color: text-dark
@@ -239,6 +210,35 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - posts:
+      - content/pages/blog/embracing-wellness-my-journey.md
+      - content/pages/blog/health-benefits-of-yoga.md
+      - content/pages/blog/beginner-yoga-poses-by-yogchitralaya.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: false
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Surya Namaskar
