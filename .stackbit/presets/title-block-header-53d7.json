@@ -1,0 +1,27 @@
+{
+    "model": "TitleBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Header",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Other"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "text": "The Best Yoga Studio",
+                "color": "text-dark",
+                "styles": {
+                    "self": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/title-block-header-53d7.png"
+        }
+    ]
+}
