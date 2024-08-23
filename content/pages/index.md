@@ -330,7 +330,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar3.svg
           altText: Rupam Sahu
           styles:
             self:
