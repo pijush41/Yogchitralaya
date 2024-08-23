@@ -206,7 +206,7 @@ sections:
       programs for those who wish to pursue a career in yoga.
     media:
       title: Mini meditation
-      url: 'https://youtu.be/cEqZthCaMpo?si=bjREMg11lCedlRjR'
+      url: 'https://vimeo.com/1001857832'
       controls: false
       aspectRatio: '16:9'
       styles:
