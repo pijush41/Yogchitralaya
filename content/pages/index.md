@@ -442,7 +442,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Konica Mondal
-        tagline: This is the tagline
+        tagline: Instructor
         subtitle: ''
         text: ''
         image:
