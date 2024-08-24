@@ -446,7 +446,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Konica Mondal.jpg
           altText: Placeholder image
           styles:
             self:
