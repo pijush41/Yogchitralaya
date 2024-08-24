@@ -447,7 +447,7 @@ sections:
         text: ''
         image:
           url: /images/Konica Mondal.jpg
-          altText: Placeholder image
+          altText: Konica Mondal
           styles:
             self:
               borderRadius: x-large
