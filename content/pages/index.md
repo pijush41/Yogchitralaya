@@ -469,7 +469,7 @@ sections:
         text: ''
         image:
           url: /images/Papiya Chakraboti.jpg
-          altText: Placeholder image
+          altText: Papiya Chakraboti
           styles:
             self:
               borderRadius: x-large
