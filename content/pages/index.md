@@ -464,7 +464,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Papiya Chakraboti
-        tagline: This is the tagline
+        tagline: Instructor
         subtitle: ''
         text: ''
         image:
