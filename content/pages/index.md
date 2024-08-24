@@ -468,7 +468,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Papiya Chakraboti.jpg
           altText: Placeholder image
           styles:
             self:
