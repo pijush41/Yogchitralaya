@@ -441,7 +441,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Coming
+      - title: Konica Mondal
         tagline: This is the tagline
         subtitle: ''
         text: ''
