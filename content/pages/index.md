@@ -463,7 +463,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Coming
+      - title: Papiya Chakraboti
         tagline: This is the tagline
         subtitle: ''
         text: ''
