@@ -441,13 +441,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Coming
-        tagline: This is the tagline
+      - title: Konica Mondal
+        tagline: Instructor
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/Konica Mondal.jpg
+          altText: Konica Mondal
           styles:
             self:
               borderRadius: x-large
@@ -463,12 +463,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Coming
-        tagline: This is the tagline
+      - title: Papiya Chakraboti
+        tagline: Instructor
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Papiya Chakraboti.jpg
           altText: Placeholder image
           styles:
             self:
